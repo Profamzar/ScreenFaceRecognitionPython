@@ -16,4 +16,4 @@ The code run best in PyCharm application.
 3. Run the code
 4. Try google CR7's face
 
-####### Disclaimer: Common creative copyright images were used throughout this simulation testing.
+###### Disclaimer: Common creative copyright images were used throughout this simulation testing.
